@@ -1,0 +1,26 @@
+
+
+.whole {
+    display: flex;
+    flex-wrap: wrap;
+    width: 650px;
+    height: 650px;
+    background-color: rgb(163, 170, 185);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.cell {
+    display: flex;
+    box-sizing: border-box;
+    display: flex;
+    width: 180px;
+    height: 180px;
+    background-color: rgb(49, 128, 184);
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    
+}
